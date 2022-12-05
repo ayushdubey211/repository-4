@@ -1,0 +1,25 @@
+'''f=open('k22pk.txt','w')
+f.write('welcome to filess \n')
+f.write('my name is abc ')
+f.close()'''
+
+
+################
+#counting the no of lines in a file
+
+'''f=open("k22pk.txt","r")
+count=0
+word=0
+char=0
+for x in f:
+    count=count+1
+    word=word+len(x.split())
+    char=char+len(x)
+print("no. of lines in files is",count)
+print("no. of words in files is",word)
+print("no. of characterss in files is",char)''
+
+
+
+
+
